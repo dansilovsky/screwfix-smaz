@@ -1,0 +1,14 @@
+#mainContent {
+	height: 100%;
+}
+#calendarBar
+{
+	height: $bar-height;
+	padding: 0 $padding-main;
+}
+#calendar .hide {
+	display: none;
+}
+#calendarTableContainer {
+	overflow-y: scroll;
+}
